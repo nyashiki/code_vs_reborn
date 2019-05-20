@@ -1,0 +1,12 @@
+*.o
+codevs
+runtest
+
+# Editor
+.vscode/
+
+# tools
+tools/results/*
+
+# .gitkeep
+!.gitkeep
